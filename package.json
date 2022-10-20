@@ -1,0 +1,16 @@
+{
+"name": "scg6666",
+"theme": "scg6666",
+"version": "8.6.10",
+"description": "scg6666 สมัครเว็บไซต์พนันเว็บตรง ระบบออโต้ แจกเงินเครดิตฟรี",
+"keywords": [
+"scg6666",
+"scg6666 เครดิตฟรี",
+"scg6666 ทางเข้า"
+],
+"repository": "https://github.com/miloovaltin/scg6666",
+"license": "MIT",
+"engines": {
+"atom": ">=1.0.0 <2.0.0"
+}
+}
